@@ -178,7 +178,7 @@ Este módulo es utilizado por usuarios que desean consultar y rentar bicicletas.
 # 📂 Estructura del proyecto
 
 ```bash
-CycleRentalManagementSystem/
+PlataformaRentaBicicletas/
 │
 ├── server/                   # Backend Node.js + Express
 ├── client/                   # Panel administrativo
@@ -209,7 +209,7 @@ CycleRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CycleRentalManagementSystem.git
+git clone https://github.com/isairey/PlataformaRentaBicicletas.git
 ```
 
 ---
