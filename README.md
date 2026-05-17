@@ -292,33 +292,7 @@ http://localhost:3001
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🚴 Dashboard principal
-![Dashboard](https://dummyimage.com/1200x600/0f172a/ffffff&text=Cycle+Rental+Dashboard)
-
-### 👥 Gestión de clientes
-![Customers](https://dummyimage.com/1200x600/111827/ffffff&text=Customer+Management)
-
-### 🚴 Gestión de bicicletas
-![Bikes](https://dummyimage.com/1200x600/1e293b/ffffff&text=Bike+Management)
-
-### 📍 Estaciones de renta
-![Stations](https://dummyimage.com/1200x600/334155/ffffff&text=Rental+Stations)
-
-### 📊 Panel administrativo
-![Admin](https://dummyimage.com/1200x600/0f172a/ffffff&text=Admin+Panel)
-
-### 🔍 Consulta de disponibilidad
-![Availability](https://dummyimage.com/1200x600/1e293b/ffffff&text=Bike+Availability)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
