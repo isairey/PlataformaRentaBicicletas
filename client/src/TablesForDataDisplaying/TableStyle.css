@@ -1,0 +1,64 @@
+* {
+  font-family: "Noto Sans JP", sans-serif;
+  box-sizing: border-box;
+  /* background-color: #f1f8fc; */
+}
+
+.container {
+  background-color: #f1f8fc;
+}
+.content-table {
+  /* align-self: center; */
+  background-color: #5bacdf;
+  border-collapse: collapse;
+  margin: 50px 0;
+  font-size: 0.9em;
+  padding: 1rem;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #64bcf4;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 0.5px solid #0a588a;
+  font-size: 1rem;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 5px solid #0a588a;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+.edit-delete-buttons {
+  background-color: #0a588a;
+  color: white;
+  padding: 5px;
+  border: 1px solid #0a588a;
+  border-radius: 5px;
+  margin: 1px 0;
+  width: 100px;
+}
+.edit-delete-buttons:hover {
+  cursor: pointer;
+  background-color: #1093e6;
+  color: white;
+  transition: all 0.5s ease;
+}

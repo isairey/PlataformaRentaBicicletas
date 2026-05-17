@@ -1,0 +1,79 @@
+[
+  {
+    "stnID": 1001,
+    "stnName": "Agrahara",
+    "stnAddress": "Agrahara circle",
+    "cycCapacity": 20,
+    "empID": 2000
+  },
+  {
+    "stnID": 1002,
+    "stnName": "Ring Road",
+    "stnAddress": "Ring Road 1",
+    "cycCapacity": 20,
+    "empID": 2002
+  },
+  {
+    "stnID": 1005,
+    "stnName": "Ring Road 3",
+    "stnAddress": "Bogadi Junction",
+    "cycCapacity": 10,
+    "empID": 2000
+  },
+  {
+    "stnID": 1006,
+    "stnName": "JSS STU",
+    "stnAddress": "JSS TI Campus",
+    "cycCapacity": 20,
+    "empID": 2006
+  },
+  {
+    "stnID": 1007,
+    "stnName": "Palace 1",
+    "stnAddress": "K R Circle",
+    "cycCapacity": 20,
+    "empID": 2005
+  },
+  {
+    "stnID": 1008,
+    "stnName": "Palace 2",
+    "stnAddress": "Hardinge Circle",
+    "cycCapacity": 20,
+    "empID": 2003
+  },
+  {
+    "stnID": 1009,
+    "stnName": "Palace 3",
+    "stnAddress": "JSS Circle",
+    "cycCapacity": 20,
+    "empID": 2003
+  },
+  {
+    "stnID": 1010,
+    "stnName": "Chamundi Hill 1",
+    "stnAddress": "Chamundi Temple",
+    "cycCapacity": 20,
+    "empID": 2002
+  },
+  {
+    "stnID": 1011,
+    "stnName": "Chamundi Hill 2",
+    "stnAddress": "Chamundi Hill foothills",
+    "cycCapacity": 20,
+    "empID": 2007
+  },
+  {
+    "stnID": 1012,
+    "stnName": "Ring Road 2",
+    "stnAddress": "Dattagalli",
+    "cycCapacity": 10,
+    "empID": 2005
+  },
+  {
+    "stnID": 1013,
+    "stnName": "Ring Road 3",
+    "stnAddress": "J P Nagar",
+    "cycCapacity": 10,
+    "empID": 2005
+  }
+]
